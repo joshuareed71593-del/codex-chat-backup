@@ -1,0 +1,7 @@
+# FR便宜款工作灯亚马逊广告 Codex 聊天记录
+
+导出时间：2026-06-04T18:08:22.025Z
+
+说明：`transcripts/` 是可读 Markdown，`raw/` 是 Codex 原始 JSONL 备份。
+
+- [你作为顶尖的欧洲站亚马逊运营，你先学习下亚马逊广告的广告打法跟广告架构的知识](transcripts/%E4%BD%A0%E4%BD%9C%E4%B8%BA%E9%A1%B6%E5%B0%96%E7%9A%84%E6%AC%A7%E6%B4%B2%E7%AB%99%E4%BA%9A%E9%A9%AC%E9%80%8A%E8%BF%90%E8%90%A5%EF%BC%8C%E4%BD%A0%E5%85%88%E5%AD%A6%E4%B9%A0%E4%B8%8B%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%B9%BF%E5%91%8A%E7%9A%84%E5%B9%BF%E5%91%8A%E6%89%93%E6%B3%95%E8%B7%9F%E5%B9%BF%E5%91%8A%E6%9E%B6%E6%9E%84%E7%9A%84%E7%9F%A5%E8%AF%86-019e8d63-c3a1-7291-98e3-0cd753f71289.md)
